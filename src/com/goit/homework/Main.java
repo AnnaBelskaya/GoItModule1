@@ -1,4 +1,4 @@
-package goit.education.module1;
+package com.goit.module1;
 
 import java.util.Scanner;
 
